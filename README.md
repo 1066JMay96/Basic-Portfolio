@@ -1,2 +1,2 @@
 # Basic-Portfolio
-This is la basic portfolio page
+This is a basic portfolio page
