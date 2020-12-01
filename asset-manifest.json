@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Basic-Portfolio/static/css/main.b9b42207.chunk.css",
-    "main.js": "/Basic-Portfolio/static/js/main.31e37e0d.chunk.js",
-    "main.js.map": "/Basic-Portfolio/static/js/main.31e37e0d.chunk.js.map",
+    "main.js": "/Basic-Portfolio/static/js/main.61edc286.chunk.js",
+    "main.js.map": "/Basic-Portfolio/static/js/main.61edc286.chunk.js.map",
     "runtime-main.js": "/Basic-Portfolio/static/js/runtime-main.9ca3648d.js",
     "runtime-main.js.map": "/Basic-Portfolio/static/js/runtime-main.9ca3648d.js.map",
     "static/js/2.f18cce45.chunk.js": "/Basic-Portfolio/static/js/2.f18cce45.chunk.js",
@@ -10,12 +10,13 @@
     "index.html": "/Basic-Portfolio/index.html",
     "static/css/main.b9b42207.chunk.css.map": "/Basic-Portfolio/static/css/main.b9b42207.chunk.css.map",
     "static/js/2.f18cce45.chunk.js.LICENSE.txt": "/Basic-Portfolio/static/js/2.f18cce45.chunk.js.LICENSE.txt",
+    "static/media/Face.da499c50.jpg": "/Basic-Portfolio/static/media/Face.da499c50.jpg",
     "static/media/App.css": "/Basic-Portfolio/static/media/ignasi_pattern_s.e887c5a2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9ca3648d.js",
     "static/js/2.f18cce45.chunk.js",
     "static/css/main.b9b42207.chunk.css",
-    "static/js/main.31e37e0d.chunk.js"
+    "static/js/main.61edc286.chunk.js"
   ]
 }
